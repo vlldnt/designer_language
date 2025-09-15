@@ -40,6 +40,8 @@ Michelle, 42, is a nurse practitioner in Lafayette, Louisiana, and has a Master 
 ### Adding adult and child profile, only one displayed depending on which is connected
 
 ![Different Profiles](https://github.com/vlldnt/designer_language/blob/main/images/profile_UX.png?raw=true)
+![Suggestions Playlist](https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png?raw=true)
+
 
 
 ### Quick click
