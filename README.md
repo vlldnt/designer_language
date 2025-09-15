@@ -4,9 +4,9 @@
 ![Design](https://github.com/vlldnt/designer_language/blob/main/images/SpotifyRM.png?raw=true)
 
 ## 👥 Team
-- Adrien Vieilledent  
-- Charlene Billot-Mornet  
-- Frédéric Bourouliou  
+- [Adrien Vieilledent](https://github.com/vlldnt)  
+- [Charlene Billot-Mornet](https://github.com/knarta)  
+- [Frédéric Bourouliou](https://github.com/fredbourouliou)
 
 ---
 
