@@ -1,7 +1,7 @@
 # 🎵 UX Case Study – Spotify Desktop App
 **Project: [C#25] Spe – Web Stack Programming 2025 v2**
 
-![Design](https://github.com/vlldnt/designer_language/blob/main/doc/images/sportifyRM.png?raw=true)
+![Design](https://github.com/vlldnt/designer_language/blob/main/doc/images/spotifyRM.png?raw=true)
 
 ## 👥 Team
 - Adrien Vieilledent  
