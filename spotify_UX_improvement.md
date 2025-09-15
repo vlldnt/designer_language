@@ -17,7 +17,7 @@ Michelle, 42, is a nurse practitioner in Lafayette, Louisiana, and has a Master 
 
 | #   | ***Frédéric's ideas***                                                                 |
 |-----|----------------------------------------------------------------------|
-| 1   | [Description de l'idée 1]                                            |
+| 1   | **A “random” button**: click to discover a song you might not like — or that could become your next favorite. |
 | 2   | [Description de l'idée 2]                                            |
 | 3   | [Description de l'idée 3]                                            |
 
