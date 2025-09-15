@@ -19,7 +19,7 @@ Michelle, 42, is a nurse practitioner in Lafayette, Louisiana, and has a Master 
 |-----|----------------------------------------------------------------------|
 | 1   | **A “random” button**: click to discover a song you might not like — or that could become your next favorite. |
 | 2   | **Guided onboarding**: reduce confusion by helping users find their musical tastes through a quick 3-question quiz.   |
-| 3   | [Description de l'idée 3]                                            |
+| 3   | **Emotional accessibility**: a UX designed for someone who is tired after work, requiring less cognitive effort.              |
 
 
 
