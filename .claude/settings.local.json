@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git restore:*)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)",
+      "Bash(git rm:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Read(//Users/fredericbourouliou/Desktop/**)",
+      "Bash(mv:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "WebFetch(domain:spicetify.app)",
+      "Bash(curl:*)",
+      "Bash(sh)",
+      "Bash(export PATH=$PATH:/Users/fredericbourouliou/.spicetify)",
+      "Bash(spicetify:*)",
+      "Bash(git clone:*)",
+      "Bash(xargs rm:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
