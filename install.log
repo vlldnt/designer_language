@@ -1,9 +1,0 @@
-[15:38:50 2025-09-15] FETCHING Version 2.41.0
-[15:38:50 2025-09-15] CREATING /Users/fredericbourouliou/.spicetify
-[15:38:50 2025-09-15] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.41.0/spicetify-2.41.0-darwin-arm64.tar.gz
-[15:39:02 2025-09-15] EXTRACTING /Users/fredericbourouliou/.spicetify/spicetify.tar.gz
-[15:39:02 2025-09-15] SETTING EXECUTABLE PERMISSIONS TO /Users/fredericbourouliou/.spicetify/spicetify
-[15:39:02 2025-09-15] REMOVING /Users/fredericbourouliou/.spicetify/spicetify.tar.gz
-[15:39:02 2025-09-15] APPENDING /Users/fredericbourouliou/.spicetify to PATH in /Users/fredericbourouliou/.zshrc
-[15:39:02 2025-09-15] spicetify v2.41.0 was installed successfully to /Users/fredericbourouliou/.spicetify
-[15:39:02 2025-09-15] Run 'spicetify --help' to get started
