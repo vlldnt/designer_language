@@ -45,6 +45,8 @@ One click to generate visual cards of artists/genres based on filters (e.g., Jaz
 ### Adding adult and child profile, only one displayed depending on which is connected
 
 ![Different Profiles](https://github.com/vlldnt/designer_language/blob/main/images/profile_UX.png?raw=true)
+
+### Adding suggestions button
 ![Suggestions Playlist](https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png?raw=true)
 
 
