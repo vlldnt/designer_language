@@ -1,6 +1,6 @@
-# Persona: Michelle
+# Designer language - research
 
-## Story
+## Persona Choosen: Michelle
 Michelle, 42, is a nurse practitioner in Lafayette, Louisiana, and has a Master of Science in Nursing. She has a busy life taking care of her four children while supporting her husband, who is a Marine. She enjoys music to relax and motivate her family in the morning, but struggles to explore new genres because Spotify mainly recommends her kids’ favorites. She cannot afford another account and wants to manage everything on a single account
 
 ![Design](https://github.com/vlldnt/designer_language/blob/main/images/michelle.png?raw=true)
@@ -22,6 +22,22 @@ Michelle, 42, is a nurse practitioner in Lafayette, Louisiana, and has a Master 
 
 
 
+## Decide: choose the idea to elaborate
+
+- ***Mood & Accessibility (1 + 4):***
+Three mood bubbles (morning, noon, evening) with playlists, designed for low-effort use when tired
+
+- ***Smart Onboarding & Personalized Suggestions (3 + 7 + 8):***
+Quick 3-question quiz + fewer, clearer recommendations (max 5) + a “Suggested Songs” playlist updated dynamically
+
+- ***Family Profile (5):***
+Switch between child/adult profiles, color-coded for clarity
+
+- ***Enhanced Sidebar (6):***
+Content filter (adult/child/both), integrated with profiles and new buttons
+
+- ***"Search for Me" Button (9):***
+One click to generate visual cards of artists/genres based on filters (e.g., Jazz, Indie Folk)
 
 
 ## Mockup- Ideas
