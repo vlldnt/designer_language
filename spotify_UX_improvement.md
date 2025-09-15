@@ -18,7 +18,7 @@ Michelle, 42, is a nurse practitioner in Lafayette, Louisiana, and has a Master 
 | #   | ***Frédéric's ideas***                                                                 |
 |-----|----------------------------------------------------------------------|
 | 1   | **A “random” button**: click to discover a song you might not like — or that could become your next favorite. |
-| 2   | [Description de l'idée 2]                                            |
+| 2   | **Guided onboarding**: reduce confusion by helping users find their musical tastes through a quick 3-question quiz.   |
 | 3   | [Description de l'idée 3]                                            |
 
 
