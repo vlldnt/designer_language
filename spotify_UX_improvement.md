@@ -8,28 +8,17 @@ Michelle, 42, is a nurse practitioner in Lafayette, Louisiana, and has a Master 
 
 ## Brainstorm and Ideas
 
-| #   | ***Charlène's ideas***                                                                 |
+| #   | ***Team's ideas***                                                                 |
 |-----|----------------------------------------------------------------------|
 | 1   | **Michelle's mood**: Three mood bubbles illustrating 3 moments of Michelle's day (morning, noon, evening)                                            |
-| 2   | [Description de l'idée 2]                                            |
-| 3   | [Description de l'idée 3]                                            |
-
-
-| #   | ***Frédéric's ideas***                                                                 |
-|-----|----------------------------------------------------------------------|
-| 1   | **A “random” button**: click to discover a song you might not like — or that could become your next favorite. |
-| 2   | **Guided onboarding**: reduce confusion by helping users find their musical tastes through a quick 3-question quiz.   |
-| 3   | **Emotional accessibility**: a UX designed for someone who is tired after work, requiring less cognitive effort.              |
-
-
-
-| #   | ***Adrien's ideas***                                                               |
-|-----|------------------------------------------------------------------------------------------|
-| 1   | **Family Profile**: Switch between child/adult accounts within the same profile, with color by profile         |
-| 2   | **Enhanced Sidebar**: Add a content filter (adult/child/both) in the left panel         |
-| 3   | **Optimized Suggestions**: Reduce playlist recommendations from 10 to 5 titles          |
-| 4   | **Hyper-Personalized Song Suggestions**: Introduce a **"Suggested Songs" playlist** dynamically updated based on the user's **listening history**, **liked tracks**, and **self-created playlists** |
-| 5   | **"Search for Me" Button**: Add a **one-click button** (e.g., in the "Explore" tab) that generates **personalized artist/genre cards** based on her filters (e.g., "Jazz," "Indie Folk"), with visual previews of recommended tracks |
+| 2   | **A “random” button**: click to discover a song you might not like — or that could become your next favorite. |
+| 3   | **Guided onboarding**: reduce confusion by helping users find their musical tastes through a quick 3-question quiz.   |
+| 4   | **Emotional accessibility**: a UX designed for someone who is tired after work, requiring less cognitive effort.              |
+| 5   | **Family Profile**: Switch between child/adult accounts within the same profile, with color by profile         |
+| 6   | **Enhanced Sidebar**: Add a content filter (adult/child/both) in the left panel         |
+| 7   | **Optimized Suggestions**: Reduce playlist recommendations from 10 to 5 titles          |
+| 8   | **Hyper-Personalized Song Suggestions**: Introduce a **"Suggested Songs" playlist** dynamically updated based on the user's **listening history**, **liked tracks**, and **self-created playlists** |
+| 9   | **"Search for Me" Button**: Add a **one-click button** (e.g., in the "Explore" tab) that generates **personalized artist/genre cards** based on her filters (e.g., "Jazz," "Indie Folk"), with visual previews of recommended tracks |
 
 
 
