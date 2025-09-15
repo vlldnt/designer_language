@@ -10,7 +10,7 @@ Michelle, 42, is a nurse practitioner in Lafayette, Louisiana, and has a Master 
 
 | #   | ***Charlène's ideas***                                                                 |
 |-----|----------------------------------------------------------------------|
-| 1   | [Description de l'idée 1]                                            |
+| 1   | **Michelle's mood**: Three mood bubbles illustrating 3 moments of Michelle's day (morning, noon, evening)                                            |
 | 2   | [Description de l'idée 2]                                            |
 | 3   | [Description de l'idée 3]                                            |
 
