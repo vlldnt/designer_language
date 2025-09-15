@@ -50,5 +50,6 @@ The interface should allow the user to identify with one of the proposed persona
 - Michelle seeks discovery and variety (exploring new genres)
 - Regina values organization and memory (creating a personalized library)
 
+---
 
 © [@fredbourouliou](https://github.com/fredbourouliou) - [@knarta](https://github.com/knarta) - [@vlldnt](https://github.com/vlldnt) - C#25 - [<img src="https://cdn.prod.website-files.com/6105315644a26f77912a1ada/63eea844ae4e3022154e2878_Holberton-p-800.png" width="100" />](https://www.holbertonschool.fr/)
