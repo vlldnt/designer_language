@@ -51,6 +51,7 @@ One click to generate visual cards of artists/genres based on filters (e.g., Jaz
 ### Adding suggestions button
 ![Suggestions Playlist](https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png?raw=true)
 
-
+### Changing color for child theme
+![Child theme](https://github.com/vlldnt/designer_language/blob/main/images/spotify_enfant.png?raw=true)
 
 ### Quick click
