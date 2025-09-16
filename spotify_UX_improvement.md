@@ -45,8 +45,8 @@ One click to generate visual cards of artists/genres based on filters (e.g., Jaz
 ## Mockup- Ideas
 
 <p float="left">
-  <img src="https://github.com/vlldnt/designer_language/blob/main/images/profile_UX.png?raw=true" width="200"/>
-  <img src="https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png?raw=true" width="200"/>
-  <img src="https://github.com/vlldnt/designer_language/blob/main/images/spotify_enfant.png?raw=true" width="200"/>
-  <img src="https://github.com/vlldnt/designer_language/blob/main/images/reducing_recommended_songs.png?raw=true" width="200"/>
+  <img src="https://github.com/vlldnt/designer_language/blob/main/images/profile_UX.png" width="200"/>
+  <img src="https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png" width="200"/>
+  <img src="https://github.com/vlldnt/designer_language/blob/main/images/spotify_enfant.png" width="200"/>
+  <img src="https://github.com/vlldnt/designer_language/blob/main/images/reducing_recommended_songs.png" width="200"/>
 </p>
