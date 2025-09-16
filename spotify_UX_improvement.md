@@ -44,9 +44,13 @@ One click to generate visual cards of artists/genres based on filters (e.g., Jaz
 
 ## Mockup- Ideas
 
+### - Adding adult and child profile, only one displayed depending on which is connected
+### - Adding suggestions button
+### - Changing color for child theme
+### - Reducing recommended songs
 <p float="left">
-  <img src="https://github.com/vlldnt/designer_language/blob/main/images/profile_UX.png" width="200"/>
-  <img src="https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png" width="200"/>
-  <img src="https://github.com/vlldnt/designer_language/blob/main/images/spotify_enfant.png" width="200"/>
-  <img src="https://github.com/vlldnt/designer_language/blob/main/images/reducing_recommended_songs.png" width="200"/>
+  <img src="https://github.com/vlldnt/designer_language/blob/main/images/profile_UX.png" width="400"/>
+  <img src="https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png" width="400"/>
+  <img src="https://github.com/vlldnt/designer_language/blob/main/images/spotify_enfant.png" width="400"/>
+  <img src="https://github.com/vlldnt/designer_language/blob/main/images/reducing_recommended_songs.png" width="400"/>
 </p>
