@@ -50,7 +50,7 @@ One click to generate visual cards of artists/genres based on filters (e.g., Jaz
     <p><b>1. Adding adult and child profile</b><br>
     Only one displayed depending on which is connected.</p>
     <a href="https://github.com/vlldnt/designer_language/blob/main/images/profile_UX.png">
-      <img src="https://github.com/vlldnt/designer_language/blob/main/images/profile_UX.png?raw=true" width="300"/>
+      <img src="https://github.com/vlldnt/designer_language/blob/main/images/profile_UX.png?raw=true" width="600"/>
     </a>
     <p><i>Click to enlarge the image</i></p>
   </div>
@@ -58,7 +58,7 @@ One click to generate visual cards of artists/genres based on filters (e.g., Jaz
   <div align="center">
     <p><b>2. Adding suggestions button</b></p>
     <a href="https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png">
-      <img src="https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png?raw=true" width="300"/>
+      <img src="https://github.com/vlldnt/designer_language/blob/main/images/suggestions_playlist.png?raw=true" width="600"/>
     </a>
     <p><i>Click to enlarge the image</i></p>
   </div>
@@ -66,7 +66,7 @@ One click to generate visual cards of artists/genres based on filters (e.g., Jaz
   <div align="center">
     <p><b>3. Changing color for child theme</b></p>
     <a href="https://github.com/vlldnt/designer_language/blob/main/images/spotify_enfant.png">
-      <img src="https://github.com/vlldnt/designer_language/blob/main/images/spotify_enfant.png?raw=true" width="300"/>
+      <img src="https://github.com/vlldnt/designer_language/blob/main/images/spotify_enfant.png?raw=true" width="600"/>
     </a>
     <p><i>Click to enlarge the image</i></p>
   </div>
@@ -75,7 +75,7 @@ One click to generate visual cards of artists/genres based on filters (e.g., Jaz
     <p><b>4. Reducing recommended songs</b><br>
     From 10 to 5 songs only.</p>
     <a href="https://github.com/vlldnt/designer_language/blob/main/images/reducing_recommended_songs.png">
-      <img src="https://github.com/vlldnt/designer_language/blob/main/images/reducing_recommended_songs.png?raw=true" width="300"/>
+      <img src="https://github.com/vlldnt/designer_language/blob/main/images/reducing_recommended_songs.png?raw=true" width="600"/>
     </a>
     <p><i>Click to enlarge the image</i></p>
   </div>
