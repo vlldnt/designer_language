@@ -1,3 +1,6 @@
+# Parcours Utilisateur Spotify - Diagramme de Flux
+
+```mermaid
 flowchart TD
     A([Ouvrir Spotify Desktop]) --> B{Déjà connecté ?}
     B -- Non --> C[Entrer identifiants] --> D[Écran de sélection de profil]
@@ -35,3 +38,4 @@ flowchart TD
     %% --- Changements rapides ---
     F -. menu profil .-> D
     K -. bouton profil .-> D
+```
