@@ -9,7 +9,7 @@ flowchart TD
     D --> E{Qui écoute ?}
     E -- Michelle (adulte) --> F[Accueil adulte]
     E -- Enfant (ex : Léon) --> K[Accueil Spotify Kids]
-    E -- Aucun profil enfant --> J[Créer profil enfant<br/>(nom, avatar, âge)] --> K
+    E -- Aucun profil enfant --> J[Créer profil enfant - nom, avatar, âge] --> K
 
     %% --- Parcours adulte (Michelle) ---
     F --> F1[Barre de recherche / navigation]
