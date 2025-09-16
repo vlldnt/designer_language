@@ -1,41 +1,41 @@
-# Parcours Utilisateur Spotify - Diagramme de Flux
+# Spotify User Flow - Flow Diagram
 
 ```mermaid
 flowchart TD
-    A([Ouvrir Spotify Desktop]) --> B{Déjà connecté ?}
-    B -- Non --> C[Entrer identifiants] --> D[Écran de sélection de profil]
-    B -- Oui --> D[Écran de sélection de profil]
+    A([Open Spotify Desktop]) --> B{Already logged in?}
+    B -- No --> C[Enter credentials] --> D[Profile selection screen]
+    B -- Yes --> D[Profile selection screen]
 
-    D --> E{Qui écoute ?}
-    E -- Michelle adulte --> F[Accueil adulte]
-    E -- Enfant ex: Léon --> K[Accueil Spotify Kids]
-    E -- Aucun profil enfant --> J[Créer profil enfant - nom, avatar, âge] --> K
+    D --> E{Who's listening?}
+    E -- Michelle adult --> F[Adult home]
+    E -- Child e.g. Leon --> K[Spotify Kids home]
+    E -- No child profile --> J[Create child profile - name, avatar, age] --> K
 
-    %% --- Parcours adulte Michelle ---
-    F --> F1[Barre de recherche / navigation]
-    F1 --> F2[Onglet ou playlist : Françaises]
-    F2 --> F3[Voir recommandations]
-    F3 --> F4{Ajouter un titre ?}
-    F4 -- Oui --> F5[Ajouter à playlist / Titres likés]
-    F4 -- Non --> F6[Lire un titre]
+    %% --- Adult flow Michelle ---
+    F --> F1[Search bar / navigation]
+    F1 --> F2[Tab or playlist: French songs]
+    F2 --> F3[View recommendations]
+    F3 --> F4{Add a track?}
+    F4 -- Yes --> F5[Add to playlist / Liked songs]
+    F4 -- No --> F6[Play a track]
     F5 --> F6
-    F6 --> F7{Continuer l'écoute ?}
-    F7 -- Oui --> F2
-    F7 -- Non --> H[Changer de profil / Quitter]
+    F6 --> F7{Continue listening?}
+    F7 -- Yes --> F2
+    F7 -- No --> H[Switch profile / Quit]
 
-    %% --- Parcours enfant Kids ---
-    K --> K1[Catégories visuelles : Chansons, Comptines, Découverte, Héros]
-    K1 --> K2[Choisir une carte / playlist]
-    K2 --> K3[Lire un titre - gros bouton Play]
-    K3 --> K4{Ajouter / Like enfantin ?}
-    K4 -- Oui --> K5[Ajout dans Mes Favoris - espace enfant]
-    K4 -- Non --> K6[Suivant / Surprise - bouton Magie]
+    %% --- Child flow Kids ---
+    K --> K1[Visual categories: Songs, Nursery Rhymes, Discovery, Heroes]
+    K1 --> K2[Choose a card / playlist]
+    K2 --> K3[Play a track - big Play button]
+    K3 --> K4{Add / Child Like?}
+    K4 -- Yes --> K5[Add to My Favorites - child space]
+    K4 -- No --> K6[Next / Surprise - Magic button]
     K5 --> K6
-    K6 --> K7{Fin de session ?}
-    K7 -- Oui --> H[Changer de profil / Quitter]
-    K7 -- Non --> K1
+    K6 --> K7{End session?}
+    K7 -- Yes --> H[Switch profile / Quit]
+    K7 -- No --> K1
 
-    %% --- Changements rapides ---
-    F -. menu profil .-> D
-    K -. bouton profil .-> D
+    %% --- Quick changes ---
+    F -. profile menu .-> D
+    K -. profile button .-> D
 ```
