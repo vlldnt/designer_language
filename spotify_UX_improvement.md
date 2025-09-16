@@ -20,6 +20,8 @@ Michelle, 42, is a nurse practitioner in Lafayette, Louisiana, and has a Master 
 | 8   | **Hyper-Personalized Song Suggestions**: Introduce a **"Suggested Songs" playlist** dynamically updated based on the user's **listening history**, **liked tracks**, and **self-created playlists** |
 | 9   | **"Search for Me" Button**: Add a **one-click button** (e.g., in the "Explore" tab) that generates **personalized artist/genre cards** based on her filters (e.g., "Jazz," "Indie Folk"), with visual previews of recommended tracks |
 
+### White Boarding
+![White Boarding](https://github.com/vlldnt/designer_language/blob/main/images/white_boarding.png?raw=true)
 
 
 ## Decide: choose the idea to elaborate
