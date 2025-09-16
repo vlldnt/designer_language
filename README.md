@@ -26,6 +26,8 @@ Improve the user experience of the **Spotify Desktop App**:
 
 ## 📂 Deliverables
 
+- [Designer language - research](https://github.com/vlldnt/designer_language/blob/main/spotify_UX_improvement.md)
+- [Figma mockup]()
 
 ---
 
